@@ -23784,3 +23784,10 @@
 ||trade.eightcap.com^
 ||tradecryptocapital.org^
 ||cbtoken.me^
+||coindesk.com^
+||blockchain.com^
+||luno.com^
+||tokenize.exchange^
+||tokenizemalaysia.com^
+||sinegy.com^
+||mxglobal.com.my^
