@@ -20222,3 +20222,4 @@
 ||adventurejump.cl^
 ||playtem.com^
 ||shooter-bubble.de^
+||maplesea.com^
