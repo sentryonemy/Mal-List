@@ -1,3 +1,4 @@
 @@||tracking.my^$important
 @@||tracking.frontierforce.com^$important
+@@||tracking.pos.com.my^$important
 @@||events.gfe.nvidia.com^$important
