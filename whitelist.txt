@@ -3,3 +3,4 @@
 @@||tracking.pos.com.my^$important
 @@||events.gfe.nvidia.com^$important
 @@||track.flickpost.co^$important
+@@||*.phncdn.com^$important
